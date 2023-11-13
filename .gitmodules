@@ -1,0 +1,6 @@
+[submodule "Assets/Plugins"]
+	path = Assets/Plugins
+	url = https://git.bkb.network/lockedroom/development/client/plugins
+[submodule "Assets/VirtualPC"]
+	path = Assets/VirtualPC
+	url = http://g.hiddens.link:8929/lockedroom/99players/studio/modules/virtualpc

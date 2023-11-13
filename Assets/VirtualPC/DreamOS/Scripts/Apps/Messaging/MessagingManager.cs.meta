@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: d263d9eb4477f144c9a6b14b94b2e05b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DolphinsSp: {fileID: 21300000, guid: 77619b0b3afb0e749bbb447f9e0f37cc, type: 3}
+  - EveningSp: {fileID: 21300000, guid: ac5d9c981d9d95a4eb5afa2ece160b9a, type: 3}
+  - FocusSp: {fileID: 21300000, guid: 0e4321f47a558534a8c35155ed69a2af, type: 3}
+  - GlassSp: {fileID: 21300000, guid: 0a168e406ba0c14499d3d722c3038f1b, type: 3}
+  - GoodBoySp: {fileID: 21300000, guid: faf6013a61782d143a8348d54058e55e, type: 3}
+  - FujiSp: {fileID: 21300000, guid: 8d50c8e846dc1014a9638a41fb837a91, type: 3}
+  - PeacefullSp: {fileID: 21300000, guid: 21a2cfd9c8458af489b615009e5a0156, type: 3}
+  - RainSp: {fileID: 21300000, guid: 65ac230fccbb41942b562f78c76cdb96, type: 3}
+  - TheCoolerSp: {fileID: 21300000, guid: 537430b8d4df59840ae59283a8484173, type: 3}
+  - ToTheMoonSp: {fileID: 21300000, guid: 13f9eda6a85417444a14da3b5e22cf0b, type: 3}
+  - chatsParent: {instanceID: 0}
+  - chatViewer: {instanceID: 0}
+  - chatLayout: {fileID: 853638161323250297, guid: 1411a41b84df6ae47b16c916c9438acc,
+      type: 3}
+  - chatMessageButton: {fileID: 1405079652423584, guid: e66a3e6f71185f84abc7019607d29a09,
+      type: 3}
+  - chatMessageSent: {fileID: 1658346118929398, guid: 0c911ffdbc4226740b781aab4819e50d,
+      type: 3}
+  - chatMessageRecieved: {fileID: 1091222002183730, guid: c638e26bcd885f044a86252d30bc8afe,
+      type: 3}
+  - audioMessageSent: {fileID: 1091222002183730, guid: 60ecdae3669420b4890439039ef927fe,
+      type: 3}
+  - audioMessageRecieved: {fileID: 1091222002183730, guid: ab9d4f4d8ee673e4ca00b8e96482dc08,
+      type: 3}
+  - imageMessageSent: {fileID: 7878636168325601005, guid: 5bfad7ef49f3dd84390e80be0797bcdd,
+      type: 3}
+  - imageMessageRecieved: {fileID: 4810520593487603046, guid: ca211cd1a3e5ef6498b48a785f62bfe8,
+      type: 3}
+  - chatMessageTimer: {instanceID: 0}
+  - messageDate: {fileID: 1658346118929398, guid: 192db5f263d0e42428fed93dd63d098d,
+      type: 3}
+  - beginningIndicator: {instanceID: 0}
+  - messageInput: {instanceID: 0}
+  - timeManager: {instanceID: 0}
+  - audioPlayer: {instanceID: 0}
+  - storyTellerAnimator: {instanceID: 0}
+  - storyTellerList: {instanceID: 0}
+  - storyTellerObject: {fileID: 5808603595202413141, guid: 433b287fc94da9e448d42c336058281c,
+      type: 3}
+  - notificationCreator: {instanceID: 0}
+  - messageStoring: {instanceID: 0}
+  - selectedLayout: {instanceID: 0}
+  - sentMessageSound: {instanceID: 0}
+  - receivedMessageSound: {instanceID: 0}
+  - layoutHelper: {instanceID: 0}
+  - helperButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 13ca2f6cfa52ffa48bbd2b1c77396cef, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

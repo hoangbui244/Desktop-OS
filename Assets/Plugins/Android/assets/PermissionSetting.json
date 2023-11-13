@@ -1,0 +1,51 @@
+{
+  "_comment": "权限设置",
+  "PermissionOpenSuccess":"权限获取成功",
+  "ButtonOK": "开启权限",
+  "ButtonCancel": "拒绝",
+  "SecondButtonOK": "立即前往",
+  "SecondButtonCancel": "取消",
+  "PermissionSetting": [
+    {
+      "_comment": "存储权限",
+      "Index": 0,
+      "Permission": "android.permission.WRITE_EXTERNAL_STORAGE",
+      "Title": "存储权限不可用",
+      "Message": "由于本游戏需要获取存储空间，为你存储个人信息；\n否则，您将无法正常进行游戏体验",
+      "SecondTitle": "存储权限不可用",
+      "SecondMessage": "请在-应用设置-权限-中，允许游戏使用存储权限来保存用户数据",
+      "StartNeedApply": 1
+    },
+    {
+      "_comment": "访问电话状态权限",
+      "Index": 1,
+      "Permission": "android.permission.READ_PHONE_STATE",
+      "Title": "访问电话状态权限不可用",
+      "Message": "由于本游戏需要访问电话状态，当有来电的时候便于优先接听来电",
+      "SecondTitle": "访问电话状态权限不可用",
+      "SecondMessage": "请在-应用设置-权限-中，允许游戏使用访问电话状态权限来接听来电",
+      "StartNeedApply": 1
+    },
+    {
+      "_comment": "粗略定位权限",
+      "Index": 2,
+      "Permission": "android.permission.ACCESS_COARSE_LOCATION",
+      "Title": "粗略定位权限不可用",
+      "Message": "由于本游戏需要获取粗略定位，来让你有更好的游戏体验",
+      "SecondTitle": "粗略定位不可用",
+      "SecondMessage": "请在-应用设置-权限-中，允许游戏使用粗略定位来让你有更好的游戏体验",
+      "StartNeedApply": 1
+    },
+    {
+      "_comment": "麦克风权限",
+      "Index": 3,
+      "Permission": "android.permission.RECORD_AUDIO",
+      "Title": "麦克风权限不可用",
+      "Message": "由于本游戏需要发送语音，让你可以和其他玩家近距离接触",
+      "SecondTitle": "麦克风权限不可用",
+      "SecondMessage": "请在-应用设置-权限-中，允许游戏使用读取麦克风权限来发送语音",
+      "StartNeedApply": 0
+    }
+  ]
+}
+
